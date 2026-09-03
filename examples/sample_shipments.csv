@@ -1,0 +1,6 @@
+shipment_id,from_lat,from_lon,to_lat,to_lon,description
+SHP-001,37.7749,-122.4194,34.0522,-118.2437,San Francisco to Los Angeles
+SHP-002,40.7128,-74.0060,42.3601,-71.0589,NYC to Boston
+SHP-003,41.8781,-87.6298,39.7392,-104.9903,Chicago to Denver
+SHP-004,29.7604,-95.3698,32.7767,-96.7970,Houston to Dallas
+SHP-005,47.6062,-122.3321,45.5152,-122.6784,Seattle to Portland

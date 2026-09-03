@@ -1,0 +1,10 @@
+customer,name,lat,lon,radius_m
+Customer_A,A_LosAngeles_DC,34.0522,-118.2437,30000
+Customer_A,A_SanFrancisco_Hub,37.7749,-122.4194,25000
+Customer_B,B_Portland_DC,45.5152,-122.6784,25000
+Customer_B,B_Seattle_Hub,47.6062,-122.3321,25000
+Customer_C,C_Miami_DC,25.7617,-80.1918,30000
+Customer_C,C_Chicago_Hub,41.8781,-87.6298,30000
+Customer_C,C_Denver_DC,39.7392,-104.9903,30000
+Customer_D,D_Houston_DC,29.7604,-95.3698,30000
+Customer_D,D_Dallas_Hub,32.7767,-96.797,30000

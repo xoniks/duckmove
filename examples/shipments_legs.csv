@@ -1,0 +1,8 @@
+shipment_id,customer,from_lat,from_lon,to_lat,to_lon,depart_ts,arrive_ts,carrier,cost_usd,weight_kg,description
+SHP-201,Customer_A,37.7749,-122.4194,34.0522,-118.2437,2025-09-04T08:00:00Z,2025-09-04T13:00:00Z,CoastalExpress,950,1200,San Francisco to Los Angeles
+SHP-202,Customer_B,47.6062,-122.3321,45.5152,-122.6784,2025-09-04T08:15:00Z,2025-09-04T10:45:00Z,NWFreight,600,800,Seattle to Portland
+SHP-203,Customer_C,41.8781,-87.6298,39.7392,-104.9903,2025-09-04T07:30:00Z,2025-09-04T13:30:00Z,MidPlains,1250,1500,Chicago to Denver
+SHP-204,Customer_D,29.7604,-95.3698,32.7767,-96.7970,2025-09-04T08:05:00Z,2025-09-04T11:50:00Z,TexLogix,500,700,Houston to Dallas
+SHP-205,Customer_E,40.7128,-74.0060,42.3601,-71.0589,2025-09-04T08:10:00Z,2025-09-04T12:00:00Z,EastLink,700,900,NYC to Boston
+SHP-206,Customer_E,33.4484,-112.0740,36.1699,-115.1398,2025-09-04T06:00:00Z,2025-09-04T10:00:00Z,DesertHaul,820,1000,Phoenix to Las Vegas
+SHP-207,Customer_C,25.7617,-80.1918,47.6062,-122.3321,2025-09-04T05:30:00Z,2025-09-05T03:30:00Z,Coast2Coast,2800,1800,Miami to Seattle (very long)

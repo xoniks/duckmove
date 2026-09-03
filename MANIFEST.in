@@ -1,0 +1,3 @@
+# Ship a runnable test suite with the sdist (conftest + fixtures, not just
+# the test modules setuptools picks up by default).
+recursive-include tests *.py *.geojson

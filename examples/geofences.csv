@@ -1,0 +1,13 @@
+type,name,lat,lon,radius_m,vertices
+circle,Los_Angeles_30km,34.0522,-118.2437,30000,
+circle,Portland_20km,45.5152,-122.6784,20000,
+circle,Denver_30km,39.7392,-104.9903,30000,
+circle,Dallas_30km,32.7767,-96.7970,30000,
+circle,Miami_25km,25.7617,-80.1918,25000,
+polygon,West_Coast_Corridor,,,,"37.0,-123.0; 37.0,-121.0; 35.0,-121.0; 35.0,-123.0; 37.0,-123.0"
+circle,Customer_A_LA_DC,34.0522,-118.2437,30000,
+circle,Customer_B_PDX_DC,45.5152,-122.6784,25000,
+circle,Customer_C_Denver_DC,39.7392,-104.9903,30000,
+circle,Customer_D_Dallas_DC,32.7767,-96.7970,30000,
+circle,Customer_C_Miami_DC,25.7617,-80.1918,25000,
+polygon,Customer_A_West_Corridor,,,,"37.0,-123.0; 37.0,-121.0; 35.0,-121.0; 35.0,-123.0; 37.0,-123.0"

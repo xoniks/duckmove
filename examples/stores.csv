@@ -1,0 +1,11 @@
+store_id,name,city,lat,lon,monthly_revenue
+ST01,Downtown SF,San Francisco,37.7793,-122.4193,182000
+ST02,Mission,San Francisco,37.7599,-122.4148,95000
+ST03,DTLA,Los Angeles,34.0407,-118.2468,210000
+ST04,Santa Monica,Los Angeles,34.0195,-118.4912,158000
+ST05,Pearl District,Portland,45.5316,-122.6822,87000
+ST06,Capitol Hill,Seattle,47.6253,-122.3222,132000
+ST07,Belltown,Seattle,47.6141,-122.3459,121000
+ST08,Tempe,Phoenix,33.4255,-111.94,76000
+ST09,LoDo,Denver,39.7533,-105.0005,99000
+ST10,Wynwood,Miami,25.8005,-80.199,143000
